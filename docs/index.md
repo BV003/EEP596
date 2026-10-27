@@ -26,6 +26,16 @@ hero:
     <span class="home-card__title">Logistic Regression & MLP</span>
     <span class="home-card__desc">Cross-entropy, gradient descent, back-propagation</span>
   </a>
+  <a class="home-card" href="./lectures/lecture-03">
+    <span class="home-card__label">Lecture 3</span>
+    <span class="home-card__title">Optimization</span>
+    <span class="home-card__desc">SGD, Adam, regularization, batch norm, initialization</span>
+  </a>
+  <a class="home-card" href="./lectures/lecture-04">
+    <span class="home-card__label">Lecture 4</span>
+    <span class="home-card__title">Convolutional Neural Networks</span>
+    <span class="home-card__desc">Convolution, stride, padding, pooling, LeNet / VGG</span>
+  </a>
 </div>
 
 <h2 class="home-nav__heading">Labs</h2>
@@ -39,6 +49,16 @@ hero:
     <span class="home-card__label">Lab 2</span>
     <span class="home-card__title">PyTorch Introduction</span>
     <span class="home-card__desc">Training loop, tensors, XOR from scratch</span>
+  </a>
+  <a class="home-card" href="./labs/lab-03">
+    <span class="home-card__label">Lab 3</span>
+    <span class="home-card__title">MLP in PyTorch</span>
+    <span class="home-card__desc">Softmax, dropout, batch norm, Iris & MNIST</span>
+  </a>
+  <a class="home-card" href="./labs/lab-04">
+    <span class="home-card__label">Lab 4</span>
+    <span class="home-card__title">CNNs in PyTorch</span>
+    <span class="home-card__desc">Conv2d, pooling, MNIST & Fashion-MNIST</span>
   </a>
 </div>
 
