@@ -24,6 +24,7 @@ export default defineConfig({
           { text: '2. Logistic Regression, Neuron, MLP', link: '/lectures/lecture-02' },
           { text: '3. Optimization', link: '/lectures/lecture-03' },
           { text: '4. Convolutional Neural Networks', link: '/lectures/lecture-04' },
+          { text: '5. Advanced CNN Architectures', link: '/lectures/lecture-05' },
         ],
       },
       {
@@ -33,6 +34,7 @@ export default defineConfig({
           { text: '2. PyTorch Introduction', link: '/labs/lab-02' },
           { text: '3. MLP in PyTorch', link: '/labs/lab-03' },
           { text: '4. CNNs in PyTorch', link: '/labs/lab-04' },
+          { text: '5. ResNet in PyTorch', link: '/labs/lab-05' },
         ],
       },
     ],

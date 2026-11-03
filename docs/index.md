@@ -36,6 +36,11 @@ hero:
     <span class="home-card__title">Convolutional Neural Networks</span>
     <span class="home-card__desc">Convolution, stride, padding, pooling, LeNet / VGG</span>
   </a>
+  <a class="home-card" href="./lectures/lecture-05">
+    <span class="home-card__label">Lecture 5</span>
+    <span class="home-card__title">Advanced CNN Architectures</span>
+    <span class="home-card__desc">Residual blocks, bottlenecks, inception, ResNet, WaveNet</span>
+  </a>
 </div>
 
 <h2 class="home-nav__heading">Labs</h2>
@@ -59,6 +64,11 @@ hero:
     <span class="home-card__label">Lab 4</span>
     <span class="home-card__title">CNNs in PyTorch</span>
     <span class="home-card__desc">Conv2d, pooling, MNIST & Fashion-MNIST</span>
+  </a>
+  <a class="home-card" href="./labs/lab-05">
+    <span class="home-card__label">Lab 5</span>
+    <span class="home-card__title">ResNet in PyTorch</span>
+    <span class="home-card__desc">torchvision ResNet-18, DataLoader, CIFAR-10</span>
   </a>
 </div>
 
