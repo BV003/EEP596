@@ -41,6 +41,11 @@ hero:
     <span class="home-card__title">Advanced CNN Architectures</span>
     <span class="home-card__desc">Residual blocks, bottlenecks, inception, ResNet, WaveNet</span>
   </a>
+  <a class="home-card" href="./lectures/lecture-06">
+    <span class="home-card__label">Lecture 6</span>
+    <span class="home-card__title">Recurrent Neural Networks</span>
+    <span class="home-card__desc">Recurrence, embedding, BPTT, teacher forcing</span>
+  </a>
 </div>
 
 <h2 class="home-nav__heading">Labs</h2>
@@ -69,6 +74,11 @@ hero:
     <span class="home-card__label">Lab 5</span>
     <span class="home-card__title">ResNet in PyTorch</span>
     <span class="home-card__desc">torchvision ResNet-18, DataLoader, CIFAR-10</span>
+  </a>
+  <a class="home-card" href="./labs/lab-06">
+    <span class="home-card__label">Lab 6</span>
+    <span class="home-card__title">Character-Level RNN</span>
+    <span class="home-card__desc">nn.RNN, nn.Embedding, Shakespeare & Sherlock Holmes</span>
   </a>
 </div>
 

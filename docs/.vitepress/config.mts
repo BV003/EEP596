@@ -25,6 +25,7 @@ export default defineConfig({
           { text: '3. Optimization', link: '/lectures/lecture-03' },
           { text: '4. Convolutional Neural Networks', link: '/lectures/lecture-04' },
           { text: '5. Advanced CNN Architectures', link: '/lectures/lecture-05' },
+          { text: '6. Recurrent Neural Networks', link: '/lectures/lecture-06' },
         ],
       },
       {
@@ -35,6 +36,7 @@ export default defineConfig({
           { text: '3. MLP in PyTorch', link: '/labs/lab-03' },
           { text: '4. CNNs in PyTorch', link: '/labs/lab-04' },
           { text: '5. ResNet in PyTorch', link: '/labs/lab-05' },
+          { text: '6. Character-Level RNN', link: '/labs/lab-06' },
         ],
       },
     ],
