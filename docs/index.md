@@ -46,6 +46,11 @@ hero:
     <span class="home-card__title">Recurrent Neural Networks</span>
     <span class="home-card__desc">Recurrence, embedding, BPTT, teacher forcing</span>
   </a>
+  <a class="home-card" href="./lectures/lecture-07">
+    <span class="home-card__label">Lecture 7</span>
+    <span class="home-card__title">LSTM & GRU</span>
+    <span class="home-card__desc">Vanishing gradients, cell state, gates, GRU</span>
+  </a>
 </div>
 
 <h2 class="home-nav__heading">Labs</h2>
@@ -79,6 +84,11 @@ hero:
     <span class="home-card__label">Lab 6</span>
     <span class="home-card__title">Character-Level RNN</span>
     <span class="home-card__desc">nn.RNN, nn.Embedding, Shakespeare & Sherlock Holmes</span>
+  </a>
+  <a class="home-card" href="./labs/lab-07">
+    <span class="home-card__label">Lab 7</span>
+    <span class="home-card__title">LSTM & GRU in PyTorch</span>
+    <span class="home-card__desc">nn.LSTM / nn.GRU, mini-batches, signal denoising</span>
   </a>
 </div>
 

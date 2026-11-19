@@ -26,6 +26,7 @@ export default defineConfig({
           { text: '4. Convolutional Neural Networks', link: '/lectures/lecture-04' },
           { text: '5. Advanced CNN Architectures', link: '/lectures/lecture-05' },
           { text: '6. Recurrent Neural Networks', link: '/lectures/lecture-06' },
+          { text: '7. LSTM & GRU', link: '/lectures/lecture-07' },
         ],
       },
       {
@@ -37,6 +38,7 @@ export default defineConfig({
           { text: '4. CNNs in PyTorch', link: '/labs/lab-04' },
           { text: '5. ResNet in PyTorch', link: '/labs/lab-05' },
           { text: '6. Character-Level RNN', link: '/labs/lab-06' },
+          { text: '7. LSTM & GRU in PyTorch', link: '/labs/lab-07' },
         ],
       },
     ],
